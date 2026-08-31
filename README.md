@@ -7,7 +7,6 @@ A simple collection of Python utility scripts.
 
 ## Files
 
-* **`square.py`**: Calculates the square of a number.
 * **`addition.py`**: Adds two numbers.
 * **`name.py`**: Prints a name.
 * **`numpy.py`**: Python script using NumPy.
