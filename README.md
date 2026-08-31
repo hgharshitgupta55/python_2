@@ -17,7 +17,6 @@ A simple collection of Python utility scripts.
 Run any script directly using Python:
 
 ```bash
-python square.py
 python addition.py
 python name.py
 python numpy.py
