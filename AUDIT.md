@@ -1,7 +1,20 @@
 # README Audit
 
-| Claim in README | True? | Evidence / Correction |
+## Fact Check
+
+| Claim | True? | Evidence |
 |---|---|---|
-| square.py calculates square | Yes | square.py contains square calculation |
-| addition.py adds two numbers | Yes | addition.py contains addition |
-| name.py prints a name | Yes | name.py prints the entered name |
+| Program takes input | No | No input() exists |
+| Program uses a loop | Yes | for loop is present |
+
+## Commit Message Comparison
+
+| Commit | My Message | AI Message | Which Is Better? |
+|---|---|---|---|
+
+## Peer Review
+
+Partner Name:
+Roll Number:
+
+Feedback:
